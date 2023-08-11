@@ -1,5 +1,5 @@
 body {
-    background-color: #edefee;
+    background-color: #f1eed9;
     font-family: 'Markazi Text', 'serif';
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -8,10 +8,14 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 5rem;
 }
 
 h2 {
+    font-size: 3rem;
+}
+
+p {
     font-size: 2rem;
 }
 
@@ -24,6 +28,7 @@ header > img {
 nav ul {
     list-style: none;
     text-align: center;
+    font-size: 3rem;
 }
 
 nav li {
